@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+.vs/
+.vscode/
+build-win/
+installer/
+IPlugEffect.xcworkspace/
+manual/
 # Compiled Object files
 *.slo
 *.lo
